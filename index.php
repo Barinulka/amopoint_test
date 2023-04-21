@@ -29,6 +29,9 @@
                 <li class="menu_item">
                     <a href="Task1/index.php" class="menu_link">Задание 1</a>
                 </li>
+                <li class="menu_item">
+                    <a href="Task2/index.php" class="menu_link">Задание 2</a>
+                </li>
             </ul>
         </section>
     </main>
