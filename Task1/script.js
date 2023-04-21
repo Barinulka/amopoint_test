@@ -12,6 +12,7 @@ $(function() {
 
                     $(".result_circle").removeClass('red')
                     $(".result_circle").removeClass('green')
+                    $('.result_output').html('');
 
                     if (data.error != undefined){
                         
